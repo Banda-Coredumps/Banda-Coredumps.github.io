@@ -1,0 +1,30 @@
+{
+  "packages": [
+    "bundler@latest",
+    "ruby@3.1",
+    "libffi@latest"
+  ],
+  "shell": {
+    "init_hook": [
+      "export PS1='💲coredumps:\\w\n> '",
+      "alias db='devbox'",
+      "alias dbr='devbox run'"
+    ],
+    "scripts": {
+      "generate": [
+        "gem install jekyll --version \"~> 3.9.2\" --no-document",
+        "bundle update",
+        "bundle lock",
+        "bundle package",
+        "rm -rf vendor"
+      ],
+      "run_test": [
+        "devbox run generate",
+        "bundler exec $GEM_HOME/bin/jekyll build --trace"
+      ],
+      "serve": [
+        "bundler exec $GEM_HOME/bin/jekyll serve --trace"
+      ]
+    }
+  }
+}
