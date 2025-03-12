@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+<img src="static/img/coredumps.png" width="50%">
