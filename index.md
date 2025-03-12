@@ -5,4 +5,6 @@
 layout: home
 ---
 
-<img src="static/img/coredumps.png" width="50%">
+<p style="text-align: center">
+    <img src="static/img/coredumps.png" width="50%">
+</p>
