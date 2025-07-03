@@ -9,9 +9,12 @@ categories: [Lançamentos]
 
 O álbum "A Comédia Corporativa" já está disponível para quem quiser ouvir nos principais serviços de streaming:
 
-- [Spotify](https://open.spotify.com/album/0HrZBVomkY7GWgPpseX8lj)
+- [Amazon Music](https://www.amazon.com/dp/B0FG8LL2NF/?tag=artistlink-20)
 - [Apple Music](https://geo.itunes.apple.com/us/album/id1823962219?at=10l4B8&ct=dash97698&app=music)
-- [iTunes](https://geo.itunes.apple.com/us/album/id1823962219?at=10l4B8&ct=dash97698&app=itunes)
 - [Deezer](https://www.deezer.com/us/album/781416151)
+- [iTunes](https://geo.itunes.apple.com/us/album/id1823962219?at=10l4B8&ct=dash97698&app=itunes)
+- [Spotify](https://open.spotify.com/album/0HrZBVomkY7GWgPpseX8lj)
+- [Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_meI1bJWLMc0D5xEtBg6XzG_-UmVVR5gyg)
+- [Youtube](https://www.youtube.com/playlist?list=OLAK5uy_maENe90HPIJX6E9ESZl9x8_Qxpq6ZTB2o)
 
 Ouça sem moderação!
