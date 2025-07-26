@@ -2,7 +2,7 @@
 layout: post
 title: "A Camisa da Empresa"
 subtitle: "Nossa primeira música"
-IMAGE: "https://i1.sndcdn.com/artworks-zDriztToidtMzv4N-QJiCkQ-t500x500.png"
+image: "https://i1.sndcdn.com/artworks-zDriztToidtMzv4N-QJiCkQ-t500x500.png"
 author: Coredumps
 categories: [Lançamentos]
 ---
